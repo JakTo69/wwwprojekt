@@ -118,13 +118,13 @@ nav {
         display: none;
     }
     .nav-links {
-        z-index: 1;
+        z-index: 10;
+        border-left: 1px solid var(--black);
         position: absolute;
         right: 0px;
         height: 92vh;
-        top: 8vh;
+        top: 9.9vh;
         background-color: var(--secondary-color);
-      
         display: flex;
         flex-direction: column;
         justify-content:center;
