@@ -59,7 +59,7 @@ nav {
 .nav-links li {
     float: left;
     padding: 25px 60px;
-    border-left: 1px solid var(--darkgrey);
+    border-left: 1px solid var(--black);
     height: 75px;
     z-index: 3;
     transition: all .4s;
@@ -91,6 +91,11 @@ nav {
     border-radius: 0;
     text-align: center;
 }
+.nomra{
+    margin: -10px;
+    width: 30px;
+    transition: 1s;
+}
 /*sekcja zwijana*/
 .burger {
     display: none;
@@ -109,7 +114,7 @@ nav {
         width: 60%;
     }
 }
-@media screen and (max-width:1368px) {
+@media screen and (max-width:1295px) {
     body{
         overflow-x: hidden;
     }
