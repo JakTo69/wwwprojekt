@@ -311,7 +311,7 @@ transform: translateX(0px);
     background-size:contain;
 }
 .content-left{
-    min-width: 400px;
+    min-width: 200px;
     border-radius: 15px;
     border: 5px solid var(--black);
     background-color: var(--secondary-color-bg);
@@ -324,7 +324,7 @@ transform: translateX(0px);
     margin-bottom:  100px;
 }
 .content-mid{
-    min-width: 300px;
+    min-width: 200px;
     border-radius: 15px;
     border: 5px solid var(--black);
     border: 5px solid var(--black);
@@ -338,7 +338,7 @@ transform: translateX(0px);
     margin-bottom:  100px;
 }
 .content-mid-contact{
-    min-width: 400px;
+    min-width: 200px;
     max-width: 700px;
     border-radius: 15px;
     border: 5px solid var(--black);
